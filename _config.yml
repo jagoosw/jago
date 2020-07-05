@@ -9,12 +9,13 @@ site-twitter: jagosw #if your site has a twitter account, enter it here
 # Author Settings
 author: Jago Strong-Wright # add your name
 author-img: profile.jpg # add your photo
-about-author: I'm a physics student at the University of Cambridge. I'm interested in spaceflight, programming, additive manufacturing among many other things. # add description
-social-twitter: jagosw # add your Twitter handle
-social-facebook: jago.strongwright # add your Facebook handle
+about-author: I'm a physics student at the University of Cambridge. I'm interested in spaceflight, programming, additive manufacturing among many other things.  This is a brief documentation of some things I've done or learned. # add description
+
+social-email: js2430@cam.ac.uk # add your Email address
 social-github: jagoosw # add your Github handle
 social-linkedin: jagosw # add your Linkedin handle
-social-email: js2430@cam.ac.uk # add your Email address
+social-twitter: jagosw # add your Twitter handle
+
 
 # Disqus
 discus-identifier: # add your discus identifier
