@@ -3,8 +3,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Some of my projects and work
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: jagosw #if your site has a twitter account, enter it here
+url: "https://jagosw.com" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter:  #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Jago Strong-Wright # add your name
