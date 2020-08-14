@@ -21,7 +21,7 @@ social-twitter: jagosw # add your Twitter handle
 discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-175461528-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
