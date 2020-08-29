@@ -3,7 +3,7 @@ layout: post
 title: Cheap Heated Enclosure for Creality Ender 5 (>70°C for ~£50)
 date: 2020-08-29 15:20:00 +0100
 description: My Medium article about building a heated chamber with the Creality Ender 5
-img: chamber.JPG
+img: chamber.jpg
 fig-caption: CAD model of the chamber
 tags: [3D Printing, Creality, Ender 5, chamber, enclosure, heated]
 ---
