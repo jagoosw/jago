@@ -10,7 +10,7 @@ tags: [3D Printing, space, SpaceX, lamp, design]
 Since [Crew Dragon](https://www.youtube.com/watch?v=xY96v0OIcK4) launched I've been very intermittently working on this lamp. The body of the capsual is based on a model by [Zastro](https://www.thingiverse.com/thing:1802512) on Thingiverse (CC BY 4.0). I made the first version a few days after the launch and have been using it since but have finally got round to perfecting it so I could give one to a friend as a gift. 
 
 The lamp also looks quite good not turned on as you can see in this photo.
-![Lamp off]({{site.baseurl}}/assets/img/dragon_light.jpg)
+![Lamp off]({{site.baseurl}}/assets/img/dragon_light.png)
 
 I'm currently planning to upgrade it to be battery powered (mainly so that I can use off the shelf electronics and so if I sell any I don't have to deal with regulations about electronics). If you'd be interested in one of these lamps I am aiming to sell them for ~£15 to £20 or a bit more for larger versions (up to 2x size is easily doable). Here is a sign up form if you're interested in buying one, if theres any interest I should be able to get an exact price and start producing in the next week or so.
 <!-- Begin Mailchimp Signup Form -->
