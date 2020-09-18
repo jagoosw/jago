@@ -298,7 +298,7 @@ I'm currently planning to upgrade it to be battery powered (mainly so that I can
 
 	</select>
 </div>
-<div class="mc-field-group hidden">
+<div class="mc-field-group" style="display:none;">
 	<label for="mce-MMERGE4">Type </label>
 	<select name="MMERGE4" class="" id="mce-MMERGE4">
 	<option value="Lamp">Lamp</option>
