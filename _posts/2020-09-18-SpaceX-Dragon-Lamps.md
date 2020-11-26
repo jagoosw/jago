@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpaceX Dragon Lamp
-date: 2020-09-18 18:00:00 +0100
+date: 2020-11-26 00:50:00 +0100
 description: The SpaceX Dragon Capsual I designed
 img: dragon_dark.png
 fig-caption: The lamp turned on (its supprisingly hard to photograph a lamp)
@@ -12,7 +12,7 @@ Since [SpaceX's Crew Demo 2 Mission](https://www.youtube.com/watch?v=xY96v0OIcK4
 The lamp also looks quite good not turned on as you can see in this photo.
 ![Lamp off]({{site.baseurl}}/assets/img/dragon_light.png)
 
-I'm currently planning to upgrade it to be battery powered (mainly so that I can use off the shelf electronics and so if I sell any I don't have to deal with regulations about electronics). If you'd be interested in one of these lamps I am aiming to sell them for ~£15 to £20 or a bit more for larger versions (up to 2x size is easily doable). Here is a sign up form if you're interested in buying one, if theres any interest I should be able to get an exact price and start producing in the next week or so.
+I'm currently planning to upgrade it to be battery powered (mainly so that I can use off the shelf electronics and so if I sell any I don't have to deal with regulations about electronics). If you'd be interested in one of these lamps I am aiming to sell them for ~£20 or a bit more for larger versions (up to 2x size is easily doable). Here is a sign up form if you're interested in buying one and I'll see what I can do, most probably will make them in batches.
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
