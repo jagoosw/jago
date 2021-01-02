@@ -9,7 +9,7 @@ site-twitter:  #if your site has a twitter account, enter it here
 # Author Settings
 author: Jago Strong-Wright # add your name
 author-img: profile.jpg # add your photo
-about-author: I'm a physics student at the University of Cambridge. I'm interested in spaceflight, programming, additive manufacturing and many other things.  This is a brief documentation of some things I've done or learned. I do 3D design and printing as well as programming on demand so please contact me below if you're interested. # add description
+about-author: I'm an astrophysics student at the University of Cambridge. I'm also interested in the rest of science, space flight and other things. # add description
 
 social-email: me@jagosw.com # add your Email address
 social-github: jagoosw # add your Github handle
